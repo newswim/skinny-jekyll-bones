@@ -1,16 +1,23 @@
-# Skinny Bones Jekyll Starter
+# Open Denton website and blog
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+This is an implementation of the [Skinny Bones Theme](http://mmistakes.github.io/skinny-bones-jekyll/) for [Jekyll](http://jekyllrb.com/)
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+You can contribute via Pull Requests! What you need:
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+1. Jekyll installed (if you're familiar with Ruby, `gem install jekyll`)
+2. Add yourself to /_data/authors.md
+3. Write you post in .md format under /_posts/DATE-name-of-post.md
+4. Run `jekyll build`
+5. Submit Pull Request
 
 ---
 
-## Notable Features
+## To do
 
-* Stylesheet built using Sass. *Requires Jekyll 2.x*
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
+* Better nav
+* Firefox / mobile compatible header
+* This is just a test, really....
 * And more.
+
+
+![Open Denton logo](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/2074/large/1412187070/open-denton.png)

@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: post 1
+  url: blog-tech
+  excerpt: just testing
+  image: corn-kits.jpg
+
+- title: google.com
+  url: http://www.google.com
+  excerpt: everyone uses this site
+  image: skinny-bones-demo.gif
+
+- title: yahoo.com
+  url: http://www.yahoo.com
+  excerpt: only some people use this site
+  image: skinny-bones-demo.gif

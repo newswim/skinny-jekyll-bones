@@ -10,9 +10,6 @@ You can contribute via Pull Requests! What you need:
 4. Run `jekyll build`
 5. Submit Pull Request
 
-
-![Open Denton logo](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/2074/large/1412187070/open-denton.png)
-
 ---
 
 ## To do
@@ -21,3 +18,6 @@ You can contribute via Pull Requests! What you need:
 * Firefox / mobile compatible header
 * This is just a test, really....
 * And more.
+
+
+![Open Denton logo](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/2074/large/1412187070/open-denton.png)
